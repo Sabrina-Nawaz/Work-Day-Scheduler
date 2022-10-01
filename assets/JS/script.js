@@ -1,6 +1,6 @@
 $(document).ready(function () {
-    // Variable that displays the date in Day then Month, Date, Year & Time 
-    var currentDate = moment().format('LLLL'); // Day, M/D/Y/T format
+    // Variable that displays the date in shorthand Day then Month, Date, Year & Time 
+    var currentDate = moment().format('llll');
 
     // Display current day
     var displayDate = $('#currentDay');
