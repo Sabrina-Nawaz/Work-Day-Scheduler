@@ -1,11 +1,11 @@
 $(document).ready(function () {
+    // Variable that displays the date in Day then Month, Date, Year & Time 
+    var currentDate = moment().format('LLLL'); // Day, M/D/Y/T format
 
-var today_date = moment().format('MMMM Do YYYY, h:mm:ss a'); // September 30th 2022, 10:34:08 am
+    // Display current day
+    var displayDate = $('#currentDay');
+    displayDate.text(currentDate);
 
-console.log(today_date); 
 
-console.log("test");
-
-document.getElementById("today").innerHTML = today_date;
 
 });
