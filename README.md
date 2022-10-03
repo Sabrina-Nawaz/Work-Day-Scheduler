@@ -15,6 +15,9 @@ The calendar populates on the web page with the current day shown at the top. Th
 
 JavaScript & Part of the HTML by: Sabrina Nawaz 
 
+Moment by JS:
+https://momentjs.com/
+
 jQuery API: 
 https://releases.jquery.com/
 https://api.jquery.com/
