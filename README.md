@@ -1,7 +1,10 @@
 # Work Day Scheduler 
 
 Link to deployed page:
-!Screenshot: 
+
+Screenshot: 
+
+![Screen Shot 2022-10-03 at 3 57 37 PM](https://user-images.githubusercontent.com/61954667/193667619-59f90bc7-ee0c-4a7e-a255-e4c72eaa1f3d.png)
 
 ## Description
 
