@@ -31,7 +31,6 @@ https://stackoverflow.com/questions/12481439/jquery-this-keyword
 Bootstrap:
 https://getbootstrap.com/docs/4.1/layout/grid/
 
-https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName
 
 W3 Schools:
 https://www.w3schools.com/tags/tag_textarea.asp
