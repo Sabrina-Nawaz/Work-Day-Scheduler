@@ -1,6 +1,6 @@
 # Work Day Scheduler 
 
-Link to deployed page:
+Link to deployed page: https://sabrina-nawaz.github.io/work-day-scheduler/
 
 Screenshot: 
 
